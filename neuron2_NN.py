@@ -1,5 +1,6 @@
 
 #This is the basic program to run the NN with two layes: one hidden and one output layer.
+#It takes as 3 values between 1-9 as input feature and the correspoding output is the first value.
 
 # Import required libraries :
 import numpy as np# Define input features :
