@@ -1,3 +1,4 @@
 # Python-scripts
-This folder contains various useful python scripts
-Now it contains code with Neural Network written in python.
+This folder contains various useful python scripts.
+I have also written basic code of one layer and two layer neural network from scracth using Numpy library.
+It also contains the test code.
